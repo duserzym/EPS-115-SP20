@@ -1,0 +1,42 @@
+﻿sample,diameter (mm),velocity (m/s),notes
+Point Reyes,5,0.1875, tabular
+Point Reyes,3,0.1696, slightly tabular
+Point Reyes,3,0.2343,
+Point Reyes,2,0.2273,
+Point Reyes,2,0.2083,
+Point Reyes,1,0.2143,
+Point Reyes,3,0.2083,
+Point Reyes,4,0.1974,
+Point Reyes,2,0.1339,
+ione_sand,0.18,0.025,average_of_7_grains
+not reported,3,0.201111111,
+not reported,4,0.301666667,
+not reported,1,0.253146853,
+not reported,4,0.201111111,
+not reported,2,0.172380952,
+not reported,6,0.197814208,
+not reported,1,0.156709957,
+not reported,3,0.272180451,
+not reported,3,0.197814208,
+not reported,7,0.22625,bounced off sides of cylinder
+not reported,2,0.268148148,
+not reported,1,0.201111111,
+not reported,1,0.183756345,
+not reported,2,0.191534392,
+ Monterey,1,0.16,round
+ Monterey,0.8,0.15,dark
+ Monterey,1,0.18,qtz
+ Monterey,0.3,0.05,qtz
+ Brmingham_AL,0.25,0.0243, had to break surface tension to get the grains to fall
+not reported,4,0.225,
+not reported,5,0.261,didn't sink straight
+not reported,2,0.218,air bubbles
+not reported,4,0.213,
+not reported,3,0.142,
+not reported,1,0.187,
+not reported,5,0.204,air bubbles
+ St. Peter SS #1, 1 mm, 0.102 m/s,
+ St. Peter SS #2, 1 mm, 0.112 m/s,
+ St. Peter SS #3, 1 mm, 0.123 m/s,
+ St. Peter SS #4, 0.3 mm , 0.026 m/s,
+ St. Peter SS #5, 0.3 mm , 0.049 m/s,
